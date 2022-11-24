@@ -1,4 +1,4 @@
-###### I am a person who stopped thinking that the project code is more important than the sales of the project itself.
+
 
 ## My current projects on github
 
@@ -7,6 +7,7 @@
 MIT
 
 **Free Software, Hell Yeah!**
+###### I am a person who stopped thinking that the project code is more important than the sales of the project itself.
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 

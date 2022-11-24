@@ -3,7 +3,9 @@
 ## HiddenArea (jQuery plugin)
 ![](https://github.com/alexrosspage/pics/blob/main/FOMA.png)
 
-> Follow your heart.
+> Select and hide an area in the picture
+
+Demo: [Links with title]([http://hiddenarea.epizy.com/ "link title")
 
 ## MultiTips (jQuery plugin)
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)

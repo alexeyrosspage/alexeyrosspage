@@ -12,6 +12,7 @@
 **Demo**: [http://hiddenarea.epizy.com](http://hiddenarea.epizy.com/)
 
 
+***
 
 
 ## MultiTips (jQuery plugin) — active tips on your page

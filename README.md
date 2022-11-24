@@ -11,7 +11,10 @@
 
 **Demo**: [http://hiddenarea.epizy.com](http://hiddenarea.epizy.com/)
 
-## MultiTips (jQuery plugin)
+
+
+
+## MultiTips (jQuery plugin) — active tips on your page
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
 
 > Follow your heart.

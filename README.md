@@ -16,7 +16,7 @@
 
 
 ## Multi-tips (jQuery plugin) — active tips on your page
-![](https://github.com/alexrosspage/multitips/blob/main/TIPS_A.png)
+![](https://github.com/alexrosspage/multitips/blob/main/TIPS_B.png)
 
 > Just add one line to your javascript file and add a hint on your page
 

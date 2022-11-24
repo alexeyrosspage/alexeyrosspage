@@ -5,7 +5,7 @@
 
 > Select and hide an area in the picture.
 
-> Important: the picture will be edited and not overlaid with a CSS layer.
+> Important: the picture will be edited, not just a СSS layer will be overlaid.
 
 **GitHub**: [https://github.com/alexrosspage/hiddenarea](https://github.com/alexrosspage/hiddenarea)
 

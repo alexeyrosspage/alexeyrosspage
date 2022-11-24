@@ -3,7 +3,7 @@
 ## HiddenArea (jQuery plugin) — image viewer and editor
 ![](https://github.com/alexrosspage/pics/blob/main/FOMA.png)
 
-> Select and hide an area in the picture.
+> Just select and hide an area in the picture.
 
 > Important: the picture will be edited, not just a СSS layer will be overlaid.
 

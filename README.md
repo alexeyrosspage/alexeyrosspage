@@ -5,7 +5,7 @@
 
 > Select and hide an area in the picture
 
-Demo: [Links with title]([http://hiddenarea.epizy.com/ "link title")
+Demo: [http://hiddenarea.epizy.com](http://hiddenarea.epizy.com/)
 
 ## MultiTips (jQuery plugin)
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)

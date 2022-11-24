@@ -4,6 +4,7 @@
 ![](https://github.com/alexrosspage/pics/blob/main/FOMA.png)
 
 > Select and hide an area in the picture.
+
 > Important: the picture will be edited and not overlaid with a CSS layer.
 
 **GitHub**: [https://github.com/alexrosspage/hiddenarea](https://github.com/alexrosspage/hiddenarea)

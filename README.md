@@ -3,7 +3,7 @@
 ## HiddenArea (jQuery plugin) — image viewer and editor
 ![](https://github.com/alexrosspage/hiddenarea/blob/main/FOMA_B.png)
 
-> Just select and hide an area of your picture
+> Just select and hide any areas of your picture
 
 > Important: your picture will be really edited, this is not just an overlaiding of a СSS property
 
@@ -18,7 +18,7 @@
 ## Multi-tips (jQuery plugin) — active tips on your page
 ![](https://github.com/alexrosspage/multitips/blob/main/TIPS_B.png)
 
-> Just add one line to your javascript file and add a hint on your page
+> Just add one line to your javascript file and enjoy any functional hints on your page
 
 > Important: you can also use these hints after an AJAX request to the server
 

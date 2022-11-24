@@ -1,5 +1,5 @@
 # Alexey Ross
-## CEO itebe.ru
+## I am a person who stopped thinking that code is more important than sales.
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 

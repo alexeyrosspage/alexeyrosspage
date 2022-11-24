@@ -1,4 +1,4 @@
-# I am a person who stopped thinking that the project code is more important than the sales of the project itself.
+## I am a person who stopped thinking that the project code is more important than the sales of the project itself.
 
 ##My current projects on github
 

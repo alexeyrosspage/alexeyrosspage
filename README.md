@@ -15,10 +15,16 @@
 ***
 
 
-## MultiTips (jQuery plugin) — active tips on your page
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+## Multi-tips (jQuery plugin) — active tips on your page
+![](https://github.com/alexrosspage/multitips/blob/main/TIPS.png)
 
-> Follow your heart.
+> Just add one line to your javascript file and add a hint on your page
+
+> Important: you can also use these hints after an AJAX request to the server
+
+**GitHub**: [https://github.com/alexrosspage/multitips](https://github.com/alexrosspage/multitips)
+
+**Demo**: [http://multitips.epizy.com](http://multitips.epizy.com/)
 
 
 ***

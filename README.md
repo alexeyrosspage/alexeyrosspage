@@ -7,7 +7,7 @@
 
 > Important: your picture will be really edited, this is not just an overlaiding of a СSS property
 
-**GitHub**: [https://github.com/alexrosspage/hiddenarea](https://github.com/alexrosspage/hiddenarea)
+**GitHub**: [https://github.com/alexeyrosspage/hiddenarea](https://github.com/alexrosspage/hiddenarea)
 
 **Demo**: [http://hiddenarea.epizy.com](http://hiddenarea.epizy.com/)
 

@@ -22,7 +22,7 @@
 
 > Important: you can also use these hints after an AJAX request to the server
 
-**GitHub**: [https://github.com/alexrosspage/multitips](https://github.com/alexrosspage/multitips)
+**GitHub**: [https://github.com/alexeyrosspage/multitips](https://github.com/alexrosspage/multitips)
 
 **Demo**: [http://multitips.epizy.com](http://multitips.epizy.com/)
 
